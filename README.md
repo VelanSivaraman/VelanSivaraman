@@ -1,9 +1,11 @@
 <h1 align="center">Hi 👋, I'm Velan</h1>
 <h3 align="center">A Student and passionate Data Engineer</h3>
 
-<img align="right" alt="Coding" width="400" src="https://www.lambdatest.com/resources/images/news24.gif">
+
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=velansivaraman" alt="velansivaraman" /></a> </p>
+<img align="right" alt="Coding" width="400" src="https://www.lambdatest.com/resources/images/news24.gif">
+
 
 - 👯 I’m looking to collaborate on **Data science**
 
