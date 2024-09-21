@@ -5,8 +5,6 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=velansivaraman" alt="velansivaraman" /></a> </p>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=velansivaraman&label=Profile%20views&color=0e75b6&style=flat" alt="velansivaraman" /> </p>
-
 - 👯 I’m looking to collaborate on **Data science**
 
 - 🌱 I’m currently learning **Tensor Flow, GenAI, Pytorch and Pandas**
